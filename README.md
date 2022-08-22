@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JatiPat
+- 👋 Hi, I’m @JatiPat and here's my portfolio: jatipat.github.io
 - 👀 I’m interested in creating programs with Python, Java, C, C++, HTML, CSS, JavaScript and more.
 - 🌱 I’m currently learning more on Java programming.
 - 💞️ I’m looking to collaborate on any beginner friendly Open Source Software dealing with Java or HTML/CSS/JavaScript.
